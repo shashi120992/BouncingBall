@@ -10,3 +10,4 @@ This is the source code for Bouncing Ball created during a Twitch livestream.Eve
   * Level Up State
   * Final State
 * **Generic Singleton approach for overall game architecture**
+* ** score system to win the level**
